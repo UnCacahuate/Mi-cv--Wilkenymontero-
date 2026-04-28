@@ -1,4 +1,4 @@
 # Mi CV
 
 Proyecto desplegado en:
-https://tuusuario.github.io/mi-cv/
+https://wilkenymontero01-hash/mi-cv/
